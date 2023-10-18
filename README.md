@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="https://media.giphy.com/media/uZ7wLTpoMbtikW2wUY/giphy.gif" alt="cart" width="280"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="right">
+   <img src="https://media.giphy.com/media/3sZZuaEm2o7arjuiV3/giphy.gif" alt="cart" width="130"/>
+</p>
 
-## Available Scripts
+<h1 align="center"></h1>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/cart?color=479aa3">
 
-### `yarn start`
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/cart?color=479aa3">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/cart?color=56BEB8">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/cart?color=479aa3" />
 
-### `yarn test`
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/cart?color=479aa3" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/cart?color=479aa3" /> 
+</p>
 
-### `yarn build`
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
+  <a href="https://serene-bublanina-f2cd1c.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :dart: About
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h4 align="center"> Cart  </h4>
+<hr>
 
-### `yarn eject`
+## :sparkles: Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## :rocket: Technologies
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The following tools were used in this project:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [React](https://pt-br.reactjs.org/)
+- [Styled-components](https://styled-components.com/docs/)
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Learn More
+## :white_check_mark: Requirements
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :checkered_flag: Starting
 
-### Code Splitting
+```bash
+# Clone this project
+$ git clone https://github.com/agostinhomarcia/cart.git
+# Access
+$ cd cart
+# Install dependencies
+$ yarn or npm
+# Run the project
+$ yarn start or npm start
+# The server will initialize in the <http://localhost:3000>
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## :memo: License
 
-### Analyzing the Bundle Size
+This project is under the [MIT license](./License).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
-### Making a Progressive Web App
+<p align="center">
+   <img src="https://media.giphy.com/media/6BupX2xF6gwk6bCX1q/giphy.gif" alt="cart" width="250"/>
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+&#xa0;
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="#top">Back to top </a>
